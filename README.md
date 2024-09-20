@@ -11,4 +11,4 @@ A console window will open and grab user ips in vcs.
 # EDUCATIONAL PURPOSES ONLY
 
 # Tags
-Keyauth.win auth.gg bypass crack exploit
+discord ip grabber spoofer sniffer hack exploit
